@@ -1,0 +1,4 @@
+1|COMP|348|3|Principles of Programming Languages
+2|COMP|335|3|Theoretical Computer Science
+3|COMP|232|3|Discrete Math.
+4|COMP|111|1|Some made-up course!

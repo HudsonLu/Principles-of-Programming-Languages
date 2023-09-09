@@ -1,0 +1,53 @@
+
+Hi,
+
+I had a lot of troubles running my code on my computer as per the instructions as it does not seem to work on my computer,
+so I used <<lein run>> command to run my assignment in src/hello_world folder.
+For some reason,  <<app.clj>> cannot run in my project so I kept the original name <<core.clj>>
+The text files need to be outside of the <<src/hello_world folder>>.
+
+Thank you for your time and understanding!
+
+**This is how I created my files: 
+lein new app hello-world
+cd hello-world
+lein run
+lein real
+(-main)
+quit 
+
+studs.txt
+2408011|John Smith|123 Here Street|514-456-4567
+4208071|Sue Jones|43 Rose Court Street|514-345-7867
+2038990|Fan Yuhong|165 Happy Lane|514-345-4533
+
+courses.txt
+1|COMP|348|3|Principles of Programming Languages
+2|COMP|335|3|Theoretical Computer Science
+3|COMP|232|3|Discrete Math.
+4|COMP|111|1|Some made-up course!
+
+grades.txt
+2408011|1|2023-S|A+
+2408011|2|2023-S|A
+2408011|3|2023-S|B+
+4208071|1|2023-S|A-
+4208071|2|2023-S|B+
+2038990|3|2023-S|B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

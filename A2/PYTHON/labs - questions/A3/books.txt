@@ -1,0 +1,72 @@
+A Tale of Two Cities,Charles Dickens,English,Historical Fiction,200000000
+Don Quixote,Miguel de Cervantes,Spanish,Satire,500000000
+The Lord of the Rings,J. R. R. Tolkien,English,Fantasy,150000000
+The Alchemist,Paul Coelho,Portuguese,Fantasy,150000000
+The Little Prince,Antoine de Saint-Exupery,French,Fantasy,140000000
+Harry Potter and the Philosopher's Stone,J. K. Rowling,English,Fantasy,100000000
+The Master and Margarita,Mikhail Bulgakov,Russian,Satire,100000000
+Alice's Adventures in Wonderland,Lewis Carroll,English,Fantasy,100000000
+The Hobbit,J. R. R. Tolkien,English,Fantasy,100000000
+And Then There Were None,Agatha Christie,English,Mystery,100000000
+Dream of the Red Chamber,Cao Xueqin,Chinese,Family Saga,100000000
+The Lion-the Witch and the Wardrobe,C. S. Lewis,English,Fantasy,85000000
+THe Chronicles of Narnia,C. S. Lewis,English,Adventure,120000000 
+She: A History of Adventure,H. Rider Haggard,English,Adventure,83000000
+The Adventures of Pinocchio,Carlo Collodi,Italian,Fantasy,80000000
+Vardi Wala Gunda,Ved Prakash Sharma,Hindi,Mystery,80000000
+The Da Vinci Code,Dan Brown,English,Mystery,80000000
+To Kill a Mockingbird, Harper Lee,English,Southern Gothic,40000000
+Harry Potter and the Chamber of Secrets,J. K. Rowling,English,Fantasy,77000000
+Harry Potter and the Prisoner of Azkaban,J. K. Rowling,English,Fantasy,65000000
+Harry Potter and the Goblet of Fire,J. K. Rowling,English,Fantasy,65000000
+Harry Potter and the Order of the Phoenix,J. K. Rowling,English,Fantasy,65000000
+Harry Potter and the Half-Blood Prince,J. K. Rowling,English,Fantasy,65000000
+Harry Potter and the Deathly Hallows,J. K. Rowling,English,Fantasy,65000000
+The Catcher in the Rye,J. D. Salinger,English,Coming-of-age,65000000
+The Bridges of Madison County,Robert James Waller,English,Romance,65000000
+Ben-Hur: A Tale of the Christ,Lew Wallace,English,Historical,50000000
+You Can Heal Your Life,Louise Hay,English,Self-improvement,50000000
+One Hundred Years of Solitude,Gabriel García Marquez,Spanish,Magic realism,50000000
+Lolita,Vladimir Nabokov,English,general,50000000
+Heidi,Johanna Spyri,German,Children's Fiction,50000000
+The Common Sense Book of Baby and Child Care,Dr. Benjamin Spock,English,Manual,50000000
+Anne of Green Gables,Lucy Maud Montgomery,English,general,50000000
+Black Beauty,Anna Sewell,English,Children's literature,50000000
+The Name of the Rose,Umberto Eco,Italian,Historical,50000000
+The Eagle Has Landed,Jack Higgins,English,Thriller,50000000
+Watership Down,Richard Adams,English,Fantasy,50000000
+Charlotte's Web,E.B. White,English,Children's Fiction,50000000
+War and Peace,Leo Tolstoy,Russian,novel,36000000
+The Thorn Birds,Colleen McCullough,English,Family Saga,33000000
+The Purpose Drivesn Life,Rick Warren,English,Bible study,33000000
+The Kite Runner,Khaled Hosseini,English,Historical Fiction,31500000
+Anne Frank: The Diary of a Young Girl,Anne Frank,Dutch,autobiography,30000000
+Gone With the Wind,Margaret Mitchell,English,Romance,30000000
+The Great Gatsby,F. Scott Fitzgerald,English,tragedy,30000000
+The Hunger Games,Suzanne Collins,English,Adventure,29000000
+Outlander,Diana Gabaldon,English,Historical Fiction,25000000
+1984,George Orwell,English,Science Fiction,20000000
+Pride and Prejudice,Jane Austen,English,Romance,20000000
+Animal Farm,George Orwell,English,fable,20000000
+Mockingjay (The Final Book of the Hunger Games),Suzanne Collins,English,Science Fiction,18000000
+The Shadow of the Wind (La sombra del viento),Carlos Luis Zafon,Spanish,Mystery,15000000
+Perfume (Das Parfum),Patrick Suskind,German,Mystery,15000000
+Follow Your Heart (Va' dove ti porta il cuore),Susanna Tamaro,Italian,self-help,14000000
+Norwegian Wood,Haruki Murakami,Japanese,novel,12000000
+The Help,Kathryn Stockett,English,drama,10000000
+A Christmas Carol,Charles Dickens,English,Fiction,2000000
+Angels and Demons,Dan Brown,English,novel,3193946
+The Da Vinchi Code,Dan Brown,English,Adventure,5094805
+No Longer Human,Osamu Dazai,Japanese,novel,12000000
+Long Walk to Freedom,Nelson Mandela,English,autobiography,14000000
+The Hitchhiker's Guide to the Galaxy,Douglas Adam,English,Science Fiction,14000000
+Guess How much I love you,Sam McBratney,English,Children's Fiction,15000000
+The Neverending Story (Die unendliche Geschichte),Michael Ende,German,Children's Literature,16000000
+Matilda,Roald Dahl,English,Children's Literature,17000000
+Wolf Totem,Jiang Rong,Chinese,novel,20000000
+Things Fall Apart,Chinua Achebe,English,novel,20000000
+Love you Forever,Robert Munsch,English,Children's Literature,20000000
+The Divine Comedy (La Divina Commedia),Dante Alighieri,Italian,Comedy,11500000
+Kitchen,Banana Yoshimoto,Japanese,novel,20000000
+Autobiography of a Yogi,Paramahansa Yogananda,Hindi,Autobiography,20000000
+Legend of the Galactic Heroes,Yoshiki Tanaka,Japanese,Science Fiction,15000000
